@@ -1,4 +1,5 @@
-# web3-fundamentals-and-near-protocol
+# NEAR_Developer_Course_Practices_1
+## web3-fundamentals-and-near-protocol
 This project is the Patika.dev Web3 Fundamentals Bootcamp study project. (Includes Practice 1 and 2)
 
 https://explorer.testnet.near.org/transactions/B9pUXX6N3Qdf9fxsWkjrJ96NM7VctBeEFyFaHvw81EC2
